@@ -2,6 +2,7 @@
 	"author": "Brad Sullivan",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "npm" ],
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
